@@ -69,13 +69,16 @@ $RECYCLE.BIN/
 
 ## MATLAB .gitignore basics
 # Windows default autosave extension
-*.asv
+*.asv]
 
 # OSX / *nix default autosave extension
 *.m~
 
 # Compiled MEX binaries (all platforms)
 *.mex*
+
+# Exported live scripts
+*.html
 
 # Packaged app and toolbox files
 *.mlappinstall
